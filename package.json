@@ -37,7 +37,7 @@
     "url": "https://github.com/yuchangyuan/node-red-contrib-roomba980-fw2"
   },
   "dependencies": {
-    "dorita980": ">=2.4.0"
+    "@karlvr/dorita980": "^3.2.0"
    },
   "node-red": {
     "nodes": {
